@@ -1,0 +1,22 @@
+body {
+	background-color: yellow;	
+	padding-bottom: 50px;
+}
+
+img {
+	width: 200px;
+	height: 350px;
+	margin: auto;
+	display: block;
+}
+
+h1{
+	color: red;
+}
+
+col-md-3{
+	margin-left: 100px;
+}
+textarea{
+	width: 300px;
+}
